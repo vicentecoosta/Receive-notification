@@ -1,0 +1,17 @@
+{
+  "name": "testefelipinho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+   "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blip-sdk": "^10.0.1",
+    "express": "^4.21.2",
+    "lime-transport-websocket": "^2.0.3"
+  }
+}
