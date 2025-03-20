@@ -27,8 +27,13 @@ Abra o arquivo `index.js` e substitua os valores de `IDENTIFIER` e `ACCESS_KEY` 
 <h4>2. Execute a API: </h4> 
 npm start
 
-A API estará rodando em http://localhost:3000.
+A API estará rodando em http://localhost:3000.<br>
+Se tudo tiver sido instalado corretamente, exibirá uma mensagem assim no terminal:
+![image](https://github.com/user-attachments/assets/57a31d11-fbc9-4da5-b982-e2e5e9064243)
+
 
 <h3><b>Configuração</b></h3> 
 <b>PORT:</b> A porta em que a API será executada. O padrão é 3000. Você pode alterar a porta definindo a variável de ambiente PORT.
 
+<h3><b>Contribuição</b></h3> 
+Se você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request.
