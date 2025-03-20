@@ -28,10 +28,6 @@ try {
                 client.addNotificationReceiver(true, notification => {
                     console.log(`Notificação recebida: ${notification.event} - De: ${notification.from}`);
                 });
-
-                client.addMessageReceiver(true, message => {
-                 
-                });
             })
             .catch(err => console.error("Erro ao conectar:", err));
     } else {
